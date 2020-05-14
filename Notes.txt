@@ -1,0 +1,3 @@
+batch files wont run on name only unless on the path file: 
+	https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/
+	from the instructor: "This is caused by the .bat file not being in a folder listed in the PATH environment variable. I'd consider adding C:\Users\Robert A Ramirez\MyPythonScripts to the PATH environment variable by following the instructions here: https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/"
